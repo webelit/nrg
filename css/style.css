@@ -488,6 +488,15 @@ input[type='checkbox'] + label, input[type='radio'] + label {
     display: block;
     object-fit: cover;
 }
+.adv .draggable{
+	width: 100%;
+}
+.adv .draggable .slick-track{
+	display: flex !important;
+    flex-wrap: wrap;
+    justify-content: space-between;
+	width: 100%;
+}
 .comanders .slick-next {
 	right: 10rem;
 	z-index: 2;
