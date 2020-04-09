@@ -1,17 +1,17 @@
 @font-face {
 	font-family: "Gotham Pro";
 	font-display: swap;
-	src: url("fonts/GothamPro.ttf") format("ttf"); 
+	src: url("fonts/GothamPro.woff") format("woff"); 
 }
 @font-face {
 	font-family: "GothamPro-Medium";
 	font-display: swap;
-	src: url("fonts/GothamPro-Medium.ttf") format("ttf");
+	src: url("fonts/GothamPro-Medium.woff") format("woff");
 }
 @font-face {
 	font-family: "GothamPro-Light";
 	font-display: swap;
-	src: url("fonts/GothamPro-Light.ttf") format("ttf");
+	src: url("fonts/GothamPro-Light.woff") format("woff");
 }
 /* Eric Meyer's CSS Reset */
 html, body, div, span, applet, object, iframe,
