@@ -99,7 +99,7 @@ body {
 	padding: 30rem 50rem;
 	border-bottom: 1rem solid #3B475A;
 }
-.logo img{
+.logo_img{
 	width: 140rem;
 }
 .phone{
@@ -216,6 +216,13 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
 	width: 100%;
+}
+.flex_1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
 }
 .prod{
 	width: 350rem;
@@ -499,6 +506,15 @@ input[type='checkbox'] + label, input[type='radio'] + label {
 .slick-dots li button::before {
 	font-size: 50rem;
 }
+.bars{
+	display: none;
+}
+.mobile_phone{
+	display: none;
+}
+.close{
+	display: none;
+}
 /* Footer
 -----------------------------------------------------------------------------*/
 .footer {
@@ -513,7 +529,43 @@ input[type='checkbox'] + label, input[type='radio'] + label {
 	height: 400rem;
 }
 @media (max-width: 830px){
-	.left_nav{
+	.left_nav {
+		height: auto;
+		z-index: 3;
+		width: 100%;
+		overflow: scroll;
+	}
+	.flex_nav_100{
+		height: 100%;
+	}
+	.main--main-bg{
+		display: block !important;
+	}
+	.logo_img{
+		width: 60rem;
+	}
+	.bars{
+		display: block;
+	}
+	.bars_2{
+		display: block;
+	}
+	.bars_none{
+		display: none;
+	}
+	.close_none{
+		display: none;
+	}
+	.mobile_phone{
+		display: block;
+	}
+	.bars img, .close img{
+		width: 25rem;
+	}
+	.mobile_phone img{
+		width: 25rem;
+	}
+	.left_nav .left_menu, .left_nav .soc, .left_nav .phone{
 		display: none;
 	}
 	.cont_right {
