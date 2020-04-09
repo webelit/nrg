@@ -162,7 +162,7 @@
 					</div>
 					<div class="confidence">
 						<h2 class="h2">Причины доверять нам</h2>
-						<div class="flex">
+						<div class="flex adv">
 							<div class="conf">
 								<img src="images/conf_1.svg" alt="">
 								<p>РАССРОЧКА</p>
@@ -270,6 +270,23 @@
 				arrows: false,
 				slidesToShow: 4,
 				slidesToScroll: 4,
+				responsive: [{
+					breakpoint: 830,
+					settings: {
+						dots: true,
+						infinite: true,
+						arrows: false,
+						slidesToShow: 1,
+						slidesToScroll: 1
+					}
+				}],
+			});
+			$(".adv").slick({
+				dots: true,
+				infinite: true,
+				arrows: false,
+				slidesToShow: 3,
+				slidesToScroll: 3,
 				responsive: [{
 					breakpoint: 830,
 					settings: {
