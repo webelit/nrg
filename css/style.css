@@ -512,3 +512,60 @@ input[type='checkbox'] + label, input[type='radio'] + label {
 	width: 50%;
 	height: 400rem;
 }
+@media (max-width: 830px){
+	.left_nav{
+		display: none;
+	}
+	.cont_right {
+		width: 100%;
+		margin-left: 0;
+	}
+	.header_cont {
+		padding: 150rem 0;
+		font-size: 24rem;
+		color: #fff;
+		line-height: 30rem;
+	}
+	.work_left {
+		width: 100%;
+	}
+	.prod{
+		width: 95%;
+		position: relative;
+		overflow: hidden;
+		margin: auto;
+		margin-bottom: 50rem;
+	}
+	.prod_cont {
+		padding: 500rem 0 0;
+		margin-bottom: -280rem;
+	}
+	.prod_cont:hover {
+		padding: 250rem 0 250rem;
+	}
+	.work_left_1 {
+		padding: 50rem 0;
+		margin-bottom: 0;
+	}
+	.work_left_2 p {
+		padding: 20rem 0;
+	}
+	.h2 {
+		margin: 50rem 0;
+	}
+	.comander {
+		width: 95% !important;
+		margin: 0 auto;
+		display: block !important;
+	}
+	.order_form{
+		display: none !important;
+	}
+	.order {
+		margin-top: 50rem;
+		padding-bottom: 50rem;
+	}
+	.slick-dots {
+		bottom: -35rem;
+	}
+}

@@ -3,6 +3,7 @@
 
 <head>
 	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">	 
 	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]-->
 	<title>NRG26</title>
 	<meta name="viewport" content="width=device-width">
@@ -259,12 +260,24 @@
 		  infinite: true,
 		  arrows: false,
 		  slidesToShow: 4,
-		  slidesToScroll: 4
+		  slidesToScroll: 4,
+		  responsive: [{
+						breakpoint: 830,
+						settings: {
+						dots: true,
+						infinite: true,
+						arrows: false,
+						slidesToShow: 1,
+						slidesToScroll: 1
+						}
+					}
+					],
 		});
 		$(".lazy").slick({
 			lazyLoad: 'ondemand', // ondemand progressive anticipated
 			infinite: true
-      	});
+		  });
+		  
 	  });
   </script>
 </body>
