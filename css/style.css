@@ -201,6 +201,10 @@ body {
 	padding: 15rem;
 	text-decoration: none;
 	display: inline-block;
+	transition: background 0.1s ease-in;
+}
+.header_a:hover{
+	background: #DC741B;
 }
 /* Middle
 -----------------------------------------------------------------------------*/
@@ -252,7 +256,11 @@ body {
 	padding: 15rem 50rem;
 	margin-top: 260rem;
 	text-decoration: none;
-	transition: all 0.2s ease-in;
+	transition: all 0.1s ease-in;
+}
+.prod_a:hover{
+	background: #DC741B;
+	text-decoration: none;
 }
 .prod_cont:hover .prod_a{
 	margin-top: 60rem;
@@ -425,6 +433,11 @@ body {
 	margin-top: 60rem;
 	text-transform: uppercase;
 	font-family: "Gotham Pro";
+	cursor: pointer;
+	transition: background 0.1s ease-in;
+}
+.submit_order:hover{
+	background: #0093D1;
 }
 input[type='checkbox'] + label, input[type='radio'] + label {
     font-size: 16rem;
@@ -606,6 +619,11 @@ input[type='checkbox'] + label, input[type='radio'] + label {
 	padding: 20rem 5rem;
 	display: block;
 	font-family: "GothamPro-Medium";
+	cursor: pointer;
+	transition: background 0.2s ease-in;
+}
+.submit:hover{
+	background: #0093D1;
 }
 .form-element{
 	padding: 80rem 0;
