@@ -40,21 +40,7 @@
 			</div>
 			<div class="left_menu" id="menu">
 				<ul>
-					<li><a href="#111">Главная</a></li>
-					<li><a href="#111">Объемные буквы</a></li>
-					<li><a href="#111">Световые короба</a></li>
-					<li><a href="#111">Рекламные конструкции и интерьерные решения</a></li>
-					<li><a href="#111">Не световые вывески</a></li>
-					<li><a href="#111">Арт объекты</a></li>
-					<li><a href="#111">Медиа экраны</a></li>
-					<li><a href="#111">Печать</a></li>
-					<li><a href="#111">Таблички</a></li>
-					<li><a href="#111">Фрезерные работы</a></li>
-					<li><a href="#111">Дизайн</a></li>
-					<li><a href="#111">Картины на холсте</a></li>
-					<li><a href="#111">Портфолио</a></li>
-					<li><a href="#111">О компании</a></li>
-					<li><a href="#111">Контакты</a></li>
+                    <? include_once "menu.html" ?>
 				</ul>
 			</div>
 			<div class="soc" id="soc">
@@ -70,7 +56,11 @@
 					<div class="header_cont">
 						<h1 class="h1">Изготовление наружной рекламы<br>в Ставрополе и крае</h1>
 						<p>Объёмные буквы и вывески</p>
-						<a href="#ex1" rel="modal:open" class="header_a">ВЫЗВАТЬ ЗАМЕРЩИКА БЕСППЛАТНО</a>
+						<div class="button">
+							<a  href="#ex1" rel="modal:open" class="btn effect01">
+								<span>ВЫЗВАТЬ ЗАМЕРЩИКА БЕСППЛАТНО</span>
+							</a>
+						</div>
 					</div>
 					<video loop muted autoplay poster="images/head_1.jpg" class="fullscreen-bg__video">
 						<source src="images/video.mp4" type="video/mp4">
