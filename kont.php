@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width">
 	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]-->
 	<title>NRG26</title>
 	<meta name="viewport" content="width=device-width">
@@ -50,66 +50,28 @@
 		</div>
 		<div class="cont_right">
 			<div class="wrapper">
-				<header class="header">
-					<img src="images/head_5.jpg" alt="" class="header_img">
-					<div class="header_cont">
-						<h1 class="h1">Несветовые вывески – доступный<br>и эффективный вид рекламы</h1>
-						<p>Несветовые вывески устанавливают в помещении и на улице. Изделия просты<br>в обслуживании и подходят для фирм, работающих в дневное время. Доступны по<br>цене и долговечны</p>
-						<div class="button">
-							<a href="#ex1" rel="modal:open" class="btn effect01">
-								<span>ВЫЗВАТЬ ЗАМЕРЩИКА БЕСППЛАТНО</span>
-							</a>
-						</div>
-					</div>
-				</header><!-- .header-->
-
 				<main class="content">
 					<div class="cont">
-						<p class="rek">
-							<strong>Несветовые вывески</strong> – самый бюджетный и результативный вариант рекламы. Яркие изделия призваны привлекать потенциальных клиентов, информируя потребителей об организации и направлении ее функционирования. На каркасе обычно размещаются: наименование компании, фирменный логотип, сфера деятельности, адрес и режим работы.
-						</p>
-						<h2 class="rek_h2">Популярные виды несветовых вывесок</h2>
+						<h2 class="rek_h2">Контакты</h2>
 					</div>
-					<div class="cont">
-						<div class="flex">
-							<div class="vidi_catalog_3">
-								<img src="images/nesvet_1.jpg" alt="Вывески из ПВХ">
-								<h3 class="vidi_catalog_h3">Вывески из ПВХ</h3>
-							</div>
-							<div class="vidi_catalog_3">
-								<img src="images/nesvet_2.jpg" alt="Композитные короба">
-								<h3 class="vidi_catalog_h3">Композитные короба</h3>
-							</div>
-							<div class="vidi_catalog_3">
-								<img src="images/nesvet_3.jpg" alt="Баннерные вывески на металлическом каркасе">
-								<h3 class="vidi_catalog_h3">Баннерные вывески на металлическом каркасе</h3>
-							</div>
-							<p>Такой формат хорошо работает в светлое время суток и пользуется популярностью у компаний, не нуждающихся в притоке посетителей в вечернее или ночное время. Это также оптимальное решение для развивающегося бизнеса, когда денег на масштабное продвижение еще недостаточно. Впоследствии реклама может быть дополнена внешней подсветкой светодиодным прожектором. Интерьерные изделия данного типа широко применяют в коридорах и холлах в качестве указателей, используют при оформлении витрин.</p>
-							<p>Интересный вариант – несветовые объемные буквы, которые востребованы и внутри помещения, и в уличной рекламе. Их используют для инкрустации в световые композитные короба, оформления зоны ресепшен или внутренней навигации. Производители предлагают плоские или объемные буквы из непрозрачного пластика, вариации из оргстекла.</p>
-							<p>Современные материалы позволяют создавать рекламные вывески любых конфигураций и габаритов.</p>
+					<div class="cont flex cont_full">
+						<div class="cont_4">
+							<img src="/images/cont_1.svg" alt="ул. 4-я промышленная, 20">
+							<p>ул. 4-я промышленная, 20</p>
+						</div>
+						<div class="cont_4">
+							<img src="/images/cont_2.svg" alt="8 (8652) 68-07-90">
+							<p>8 (8652) 68-07-90</p>
+						</div>
+						<div class="cont_4">
+							<img src="/images/cont_2.svg" alt="+7 (962) 015-49-29">
+							<p>+7 (962) 015-49-29</p>
+						</div>
+						<div class="cont_4">
+							<img src="/images/cont_3.svg" alt="contact@nrg26.ru">
+							<p>contact@nrg26.ru</p>
 						</div>
 					</div>
-					<div class="confidence">
-							<h2 class="h2">Главными достоинствами изделий являются</h2>
-							<div class="flex adv_4">
-								<div class="conf">
-									<img src="images/conf_nesvet_1.svg" alt="простота в обслуживании">
-									<p>легкость изготовления</p>
-								</div>
-								<div class="conf">
-									<img src="images/conf_nesvet_2.svg" alt="износостойкость">
-									<p>широкая цветовая палитра и множество дизайнерских решений</p>
-								</div>
-								<div class="conf">
-									<img src="images/conf_nesvet_3.svg" alt="легкость изменения">
-									<p>демократичная себестоимость</p>
-								</div>
-								<div class="conf">
-									<img src="images/conf_nesvet_4.svg" alt="легкость изменения">
-									<p>неуязвимость к неблагоприятным погодным условиям</p>
-								</div>
-							</div>
-						</div>
 					<div class="cont">
 						<h2 class="h2">Наша команда</h2>
 						<div class="comanders flex center slider">

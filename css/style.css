@@ -66,6 +66,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+strong{
+	font-family: "GothamPro-Bold";
+	font-weight: bold;
+}
 /* End of Eric Meyer's CSS Reset */
 
 html {
@@ -315,6 +319,15 @@ body {
     width: 100%;
     align-items: center;
 }
+.vid{
+	font-size: 16rem;
+	margin: 20rem 0;
+	color: #676B72;
+	font-weight: bold;
+	text-align: left;
+	display: block;
+	width: 100%;
+}
 .vidi{
 	font-size: 16rem;
 	margin: 20rem 0;
@@ -326,13 +339,13 @@ body {
 	width: 100%;
 }
 .vidi_catalog_3{
-	width: 460rem;
+	width: 32%;
 }
 .vidi_catalog_3 img{
 	width: 100%;
 }
 .vidi_catalog{
-	width: 700rem;
+	width: 48%;
 	margin-bottom: 40rem;
 }
 .vidi_catalog img{
@@ -465,6 +478,64 @@ body {
     height: 100%;
     object-fit: cover;
 }
+.adv .slick-dots {
+    bottom: 0rem;
+}
+.adv_5{
+	margin-bottom: 50rem;
+}
+.adv_5 .slick-list{
+	width: 100%;
+}
+.cont_full{
+	display: flex;
+	justify-content: space-between;
+	margin: 60rem auto;
+}
+.cont_4{
+	display: flex;
+	width: 22%;
+	justify-content: center;
+	align-items: center;
+}
+.cont_4 img{
+	margin-right: 30rem;
+	width: 50rem;
+}
+.design{
+	display: flex;
+	justify-content: space-between;
+	margin: 60rem auto;
+}
+.design_3{
+	display: flex;
+	width: 31%;
+	justify-content: center;
+	align-items: center;
+}
+.design_3 img{
+	margin-right: 30rem;
+	width: 150rem;
+}
+.art{
+	text-align: center;
+	position: relative;
+}
+.art p{
+	font-family: "GothamPro-Medium";
+	color: #676B72;
+}
+.art_img{
+	width: 120rem;
+    margin: auto;
+    margin-bottom: 30rem;
+}
+.art_2_img{
+	top: 50rem;
+	right: -40rem;
+	width: 80rem;
+    position: absolute;
+}
 .confidence{
 	background: #F0F3F6;
 	overflow: hidden;
@@ -486,6 +557,7 @@ body {
 .conf p{
 	font-family: "GothamPro-Medium";
 	color: #212C3E;
+	text-transform: uppercase;
 }
 .conf span{
 	color: #838C9B;

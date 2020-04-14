@@ -54,11 +54,12 @@
 				<header class="header">
 					<img src="images/head_1.jpg" alt="" class="header_img">
 					<div class="header_cont">
-						<h1 class="h1">Изготовление наружной рекламы<br>в Ставрополе и крае</h1>
+						<h1 class="h1">Изготовление наружной рекламы и полиграфии<br> 
+В короткие сроки и по доступной цене</h1>
 						<p>Объёмные буквы и вывески</p>
 						<div class="button">
 							<a  href="#ex1" rel="modal:open" class="btn effect01">
-								<span>ВЫЗВАТЬ ЗАМЕРЩИКА БЕСППЛАТНО</span>
+								<span>Вызвать замерщика за наш счет</span>
 							</a>
 						</div>
 					</div>
@@ -162,7 +163,7 @@
 							<div class="conf">
 								<img src="images/conf_2.svg" alt="">
 								<p>ГАРАНТИЯ</p>
-								<span>2 года. Ваша реклама будет прекрасна<br>при любой погоде</span>
+								<span>от 2 лет. Ваша реклама будет прекрасна<br>при любой погоде</span>
 							</div>
 							<div class="conf">
 								<img src="images/conf_3.svg" alt="">
