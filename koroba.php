@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,6 +17,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 	<link href="css/style.css" rel="stylesheet">
 </head>
+
 <body>
 	<div class="flex">
 		<div class="left_nav" id="flex_nav">
@@ -37,7 +39,7 @@
 			</div>
 			<div class="left_menu" id="menu">
 				<ul>
-                    <? include_once "menu.html" ?>
+					<? include_once "menu.html" ?>
 				</ul>
 			</div>
 			<div class="soc" id="soc">
@@ -54,53 +56,44 @@
 						<h1 class="h1">Световые короба<br>запоминающаяся и эффективная реклама</h1>
 						<p>Световые короба монтируют на фасад здания или внутри помещения.</p>
 						<div class="button">
-							<a  href="#ex1" rel="modal:open" class="btn effect01">
-								<span>ВЫЗВАТЬ ЗАМЕРЩИКА БЕСППЛАТНО</span>
+							<a href="#ex1" rel="modal:open" class="btn effect01">
+								<span>Рассчитать стоимость</span>
 							</a>
 						</div>
 					</div>
+					<video loop muted autoplay poster="images/head_1.jpg" class="fullscreen-bg__video">
+						<source src="images/video.mp4" type="video/mp4">
+					</video>
 				</header><!-- .header-->
 
 				<main class="content">
 					<div class="cont">
-						<p class = "rek">
+						<p class="rek">
 							Самым востребованным и эффектным вариантом уличной рекламы считаются световые короба, привлекающие внимание в любое время суток. Лайтбокс – это изделие, которое представляет собой объемную конструкцию с внутренней подсветкой. Интригующие изображения и оригинальные формы используют при продвижении бренда, для оформления торговых залов, салонов красоты, ресторанов и кофеен.
 						</p>
 						<h2 class="rek_h2">Особенности световой рекламы</h2>
 						<p>Конструкция короба состоит из корпуса, сквозь который проходит луч, освещающий броскую картинку и небольшой информационный блок. Производство лайтбоксов осуществляется из современных материалов, устойчивых к повышенной влажности, ультрафиолету и механическому воздействию.</p>
-						<p class = "vidi">Имеются различные виды изготовления:</p>
+						<p class="vidi">Имеются различные виды изготовления:</p>
 					</div>
 					<div class="cont">
-					<div class="flex">
-						<div class="vidi_catalog">
-							<img src="images/rek_1.jpg" alt="Акриловое стекло">
-							<h3 class="vidi_catalog_h3">Акриловое стекло</h3>
-							<p>отличающееся высокой способностью к рассеиванию света. Однако, такие листы более тяжелые, чем аналоги, например, сотовый поликарбонат или баннерная ткань.</p>
-						</div>
-						<div class="vidi_catalog">
-							<img src="images/rek_2.jpg" alt="буквы без подсветки">
-							<h3 class="vidi_catalog_h3">Транслюцентный банер</h3>
-							<p>который легче оргстекла, но менее устойчив к агрессивным факторам.</p>
-						</div>
-						<p>Наиболее рентабелен и практичен световой короб с лицевой частью из транслюцентного банера.</p>
-						<p class = "vidi">Примеры световых коробов в Ставрополе для уличной и интерьерной рекламы:</p>
 						<div class="flex">
-							<div class="vidi_catalog_3">
-								<img src="images/rek_3.jpg" alt="Пластиковый или алюминиевый профиль">
-								<h3 class="vidi_catalog_h3">Пластиковый или алюминиевый профиль</h3>
+							<div class="vidi_catalog">
+								<img src="images/kor_1.png" alt="Стандартный прямоугольный короб">
+								<h3 class="vidi_catalog_h3">Стандартный прямоугольный короб</h3>
 							</div>
-							<div class="vidi_catalog_3">
-								<img src="images/rek_4.jpg" alt="Композит">
-								<h3 class="vidi_catalog_h3">Композит</h3>
+							<div class="vidi_catalog">
+								<img src="images/kor_2.png" alt="Короб с инкрустацией">
+								<h3 class="vidi_catalog_h3">Короб с инкрустацией</h3>
 							</div>
-							<div class="vidi_catalog_3">
-								<img src="images/rek_5.jpg" alt="Акриловое стекло">
-								<h3 class="vidi_catalog_h3">Жесть</h3>
+							<div class="vidi_catalog">
+								<img src="images/kor_3.png" alt="Короб с прорезным лицом">
+								<h3 class="vidi_catalog_h3">Короб с прорезным лицом</h3>
+							</div>
+							<div class="vidi_catalog">
+								<img src="images/kor_4.png" alt="Фигурный короб">
+								<h3 class="vidi_catalog_h3">Фигурный короб</h3>
 							</div>
 						</div>
-						<p class="rek_h2">Преимущества лайтбоксов</p>
-						<p>Броские световые панели обеспечивают высокий результат, а их производство и монтаж не представляют трудностей.</p>
-					</div>
 					</div>
 					<div class="confidence">
 						<h2 class="h2">Главными достоинствами изделий являются</h2>
@@ -119,51 +112,6 @@
 							</div>
 						</div>
 					</div>
-					<div class="cont">
-						<h2 class="h2">Наша команда</h2>
-						<div class="comanders flex center slider">
-							<div class="comander">
-								<img src="images/comander_2.jpg" alt="Иванов">
-								<p>Коростелев Андрей</p>
-								<span>Руководитель отдела продаж</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_1.jpg" alt="Иванов">
-								<p>Ковтуненко Александра </p>
-								<span>Руководитель отдела дизайна</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_8.jpg" alt="Иванов">
-								<p>Пьянов Юрий</p>
-								<span>Руководитель отдела производства</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_4.jpg" alt="Иванов">
-								<p>Енина Лидия</p>
-								<span>Менеджер по работе с VIP клиентами</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_3.jpg" alt="Иванов">
-								<p>Бойко Евгений</p>
-								<span>Менеджер по продажам</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_5.jpg" alt="Иванов">
-								<p>Шахновская Елизавета</p>
-								<span>Дизайнер</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_6.jpg" alt="Иванов">
-								<p>Губанова Дарья</p>
-								<span>Дизайнер</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_7.jpg" alt="Иванов">
-								<p>Майстренко Наталья</p>
-								<span>специалист по документообороту</span>
-							</div>
-						</div>
-					</div>
 					<div class="order">
 						<h2 class="order_h2">Если у вас остались ещё вопросы</h2>
 						<p class="order_p">Звоните нам или пишите, ответим на все интересующие Вас вопросы</p>
@@ -175,8 +123,7 @@
 						<form action="" class="order_form flex">
 							<input type="text" placeholder="Введите ваше имя" class="input_order">
 							<input type="text" placeholder="Телефон" class="input_order">
-							<textarea name="" id="" cols="30" rows="10" placeholder="Текст вашего вопроса"
-								class="textarea_order"></textarea>
+							<textarea name="" id="" cols="30" rows="10" placeholder="Текст вашего вопроса" class="textarea_order"></textarea>
 							<input type="submit" class="submit_order">
 							<div class="checked">
 								<input id="c2d" type="checkbox" checked>
@@ -189,12 +136,8 @@
 
 			</div><!-- .wrapper -->
 			<footer class="footer flex">
-				<iframe
-					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45095.37063217501!2d41.9245459437137!3d45.05616544901016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f9076a931d1f2f%3A0x8cc5e2e36c1e5060!2zTlJHINGA0LXQutC70LDQvNC90L4g0L_RgNC-0LjQt9Cy0L7QtNGB0YLQstC10L3QvdCw0Y8g0LPRgNGD0L_Qv9Cw!5e0!3m2!1sru!2sru!4v1586290729640!5m2!1sru!2sru"
-					class="map" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-				<iframe src="https://www.youtube.com/embed/8tNNzi6mk5I" class="map"
-					allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-					allowfullscreen></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45095.37063217501!2d41.9245459437137!3d45.05616544901016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f9076a931d1f2f%3A0x8cc5e2e36c1e5060!2zTlJHINGA0LXQutC70LDQvNC90L4g0L_RgNC-0LjQt9Cy0L7QtNGB0YLQstC10L3QvdCw0Y8g0LPRgNGD0L_Qv9Cw!5e0!3m2!1sru!2sru!4v1586290729640!5m2!1sru!2sru" class="map" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+				<iframe src="https://www.youtube.com/embed/aOQfgJ-jnMM" class="map" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</footer><!-- .footer -->
 		</div>
 	</div>
@@ -208,7 +151,9 @@
 				<input type="hidden" name="source" class="source" value="">
 				<input type="hidden" name="term" class="term" value="">
 				<input type="submit" value="Отправить" class="submit" onclick="ym(61407508, 'reachGoal', 'form_1'); return true;">
-				<div class="privacy_statement flex"><input type="checkbox" required="" name="privacy_statement" value="1" checked=""><p>Я согласен(а) на обработку <a href="/ok/index.html" class="privacy_statement_a" target="_blank">персональных данных</a></p><br></div>
+				<div class="privacy_statement flex"><input type="checkbox" required="" name="privacy_statement" value="1" checked="">
+					<p>Я согласен(а) на обработку <a href="/ok/index.html" class="privacy_statement_a" target="_blank">персональных данных</a></p><br>
+				</div>
 			</div>
 			<div class="form-elements-wh">
 				<span class="za_h3">Заказать расчет</span>
@@ -221,7 +166,7 @@
 				</div>
 			</div>
 		</form>
-	  </div>
+	</div>
 	<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
 	<script src="js/slick.js"></script>
 	<script src="js/script.min.js"></script>

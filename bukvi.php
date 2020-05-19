@@ -54,14 +54,17 @@
 				<header class="header">
 					<img src="images/head_2.jpg" alt="" class="header_img">
 					<div class="header_cont">
-						<h1 class="h1">Производство объёмных букв<br>в Ставрополе и крае</h1>
+						<h1 class="h1">Производство объёмных букв<br></h1>
 						<p>Объёмные буквы - это один из самых доступных видов наружней и интерьерной рекламы.</p>
 						<div class="button">
 							<a  href="#ex1" rel="modal:open" class="btn effect01">
-								<span>ВЫЗВАТЬ ЗАМЕРЩИКА БЕСППЛАТНО</span>
+								<span>Рассчитать стоимость</span>
 							</a>
 						</div>
 					</div>
+					<video loop muted autoplay poster="images/head_1.jpg" class="fullscreen-bg__video">
+						<source src="images/video.mp4" type="video/mp4">
+					</video>
 				</header><!-- .header-->
 
 				
@@ -71,24 +74,35 @@
 							<p>
 							Объёмные буквы и отдельные элементы могут быть различной формы, от простого квадрата до сложной фигуры. Для изготовление используется несколько видов материалов в зависимости от технической возможности и задачи. Буквы и элементы могут монтироватся на фасад здания или на отдельно подготовленные основы из различных материалов.
 							</p>
-							<p class = "vidi">Имеются различные виды изготовления:</p>
+							<p class = "vidi">Виды крепления:</p>
 						</div>
 						<div class="flex">
-							<div class="vidi_catalog">
-								<img src="images/vid_1.jpg" alt="буквы без подсветки">
-								<h3 class="vidi_catalog_h3">буквы без подсветки</h3>
+							<div class="vidi_catalog_3">
+								<img src="images/vid_1.png" alt="На дистанционных держателях">
+								<h3 class="vidi_catalog_h3">На дистанционных держателях</h3>
 							</div>
-							<div class="vidi_catalog">
-								<img src="images/vid_2.jpg" alt="буквы без подсветки">
-								<h3 class="vidi_catalog_h3">буквы с внутренней подсветкой</h3>
+							<div class="vidi_catalog_3">
+								<img src="images/vid_2.png" alt="На композитной подложке">
+								<h3 class="vidi_catalog_h3">На композитной подложке</h3>
 							</div>
-							<div class="vidi_catalog">
-								<img src="images/vid_3.jpg" alt="буквы без подсветки">
-								<h3 class="vidi_catalog_h3">контражурная подсветка</h3>
+							<div class="vidi_catalog_3">
+								<img src="images/vid_3.png" alt="На металлическом каркасе">
+								<h3 class="vidi_catalog_h3">На металлическом каркасе</h3>
 							</div>
-							<div class="vidi_catalog">
-								<img src="images/vid_4.jpg" alt="буквы без подсветки">
-								<h3 class="vidi_catalog_h3">буквы из нержавеющей стали</h3>
+						</div>
+						<p class = "vidi">Виды свечения:</p>
+						<div class="flex">
+							<div class="vidi_catalog_3">
+								<img src="images/vid_4.png" alt="Без подсветки ">
+								<h3 class="vidi_catalog_h3">Без подсветки </h3>
+							</div>
+							<div class="vidi_catalog_3">
+								<img src="images/vid_5.png" alt="Внутренняя подсветка">
+								<h3 class="vidi_catalog_h3">Внутренняя подсветка</h3>
+							</div>
+							<div class="vidi_catalog_3">
+								<img src="images/vid_6.png" alt="Контражурная подсветка">
+								<h3 class="vidi_catalog_h3">Контражурная подсветка</h3>
 							</div>
 						</div>
 						<div>
@@ -114,51 +128,6 @@
 								<img src="images/conf_3.svg" alt="">
 								<p>НАДЕЖНОСТЬ</p>
 								<span>Являемся дочерним предприятием группы<br>компаний «Цифроград»</span>
-							</div>
-						</div>
-					</div>
-					<div class="cont">
-						<h2 class="h2">Наша команда</h2>
-						<div class="comanders flex center slider">
-							<div class="comander">
-								<img src="images/comander_2.jpg" alt="Иванов">
-								<p>Коростелев Андрей</p>
-								<span>Руководитель отдела продаж</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_1.jpg" alt="Иванов">
-								<p>Ковтуненко Александра </p>
-								<span>Руководитель отдела дизайна</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_8.jpg" alt="Иванов">
-								<p>Пьянов Юрий</p>
-								<span>Руководитель отдела производства</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_4.jpg" alt="Иванов">
-								<p>Енина Лидия</p>
-								<span>Менеджер по работе с VIP клиентами</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_3.jpg" alt="Иванов">
-								<p>Бойко Евгений</p>
-								<span>Менеджер по продажам</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_5.jpg" alt="Иванов">
-								<p>Шахновская Елизавета</p>
-								<span>Дизайнер</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_6.jpg" alt="Иванов">
-								<p>Губанова Дарья</p>
-								<span>Дизайнер</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_7.jpg" alt="Иванов">
-								<p>Майстренко Наталья</p>
-								<span>специалист по документообороту</span>
 							</div>
 						</div>
 					</div>
@@ -190,9 +159,7 @@
 				<iframe
 					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45095.37063217501!2d41.9245459437137!3d45.05616544901016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f9076a931d1f2f%3A0x8cc5e2e36c1e5060!2zTlJHINGA0LXQutC70LDQvNC90L4g0L_RgNC-0LjQt9Cy0L7QtNGB0YLQstC10L3QvdCw0Y8g0LPRgNGD0L_Qv9Cw!5e0!3m2!1sru!2sru!4v1586290729640!5m2!1sru!2sru"
 					class="map" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-				<iframe src="https://www.youtube.com/embed/8tNNzi6mk5I" class="map"
-					allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-					allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/aOQfgJ-jnMM" class="map" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</footer><!-- .footer -->
 		</div>
 	</div>

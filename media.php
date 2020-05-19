@@ -57,10 +57,13 @@
 						<p>Светодиодные экраны используют в рекламных целях, для транслирования<br>социальной информации. Дисплеи привлекают внимание и вмещают<br>много информации.</p>
 						<div class="button">
 							<a href="#ex1" rel="modal:open" class="btn effect01">
-								<span>ВЫЗВАТЬ ЗАМЕРЩИКА БЕСППЛАТНО</span>
+								<span>Рассчитать стоимость</span>
 							</a>
 						</div>
 					</div>
+					<video loop muted autoplay poster="images/head_1.jpg" class="fullscreen-bg__video">
+						<source src="images/video.mp4" type="video/mp4">
+					</video>
 				</header><!-- .header-->
 
 				<main class="content">
@@ -71,21 +74,17 @@
 						<br>
 						<p>Интерьерные экраны гармонично смотрятся в помещении и хорошо сочетаются с декоративной отделкой залов любого стиля. В отличие от уличных моделей такие мониторы обеспечивают высокое качество картинки с наименьшего расстояния.</p>
 						<h2 class="rek_h2">Достоинства светодиодных экранов</h2>
-						<p class="rek">Броская и энергичная реклама действует лучше статичной. Полноценное цветовое табло способно передавать малейшие оттенки и интересные визуальные эффекты. Большие уличные мониторы могут транслировать социальные материалы или полезную для жителей информацию.</p>
+						<p class="rek">Броская и энергичная реклама действует лучше статичной. Полноценное цветовое табло способно передавать малейшие оттенки и интересные визуальные эффекты. Большие уличные мониторы могут транслировать социальные материалы или полезную для жителей информацию.</p><br>
 					</div>
 					<div class="cont">
 						<div class="flex">
 							<div class="vidi_catalog">
-								<img src="images/art_1.jpg" alt="Уличные инсталляции">
+								<img src="images/media_1.jpg" alt="Уличные инсталляции">
+								<h3 class="vidi_catalog_h3">Светодиодные медиафасады</h3>
 							</div>
 							<div class="vidi_catalog">
-								<img src="images/art_2.jpg" alt="Ландшафтные произведения искусства">
-							</div>
-							<div class="vidi_catalog">
-								<img src="images/art_3.jpg" alt="Световые конструкции">
-							</div>
-							<div class="vidi_catalog">
-								<img src="images/art_4.jpg" alt="Дизайнерские шедевры">
+								<img src="images/media_2.jpg" alt="Ландшафтные произведения искусства">
+								<h3 class="vidi_catalog_h3">Светодиодные медиаэкраны</h3>
 							</div>
 							<p>Для изготовления арт-объектов берутся разные материалы, но самые востребованные каркасы создают из нержавейки. Металлоконструкции устойчивы к механическому воздействию, капризным погодным условиям, ультрафиолету и коррозии.</p>
 						</div>
@@ -144,51 +143,6 @@
 							Светодиодные экраны проходят тщательную проверку на каждом этапе производства. Монтаж крупноформатных дисплеев – сложнейший процесс, требующий точных знаний схем подключения, навыков в настройке программного обеспечения и профессионального оборудования, поэтому установкой конструкций занимаются специалисты с большим опытом подобных работ.
 						</p>
 					</div>
-					<div class="cont">
-						<h2 class="h2">Наша команда</h2>
-						<div class="comanders flex center slider">
-							<div class="comander">
-								<img src="images/comander_2.jpg" alt="Иванов">
-								<p>Коростелев Андрей</p>
-								<span>Руководитель отдела продаж</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_1.jpg" alt="Иванов">
-								<p>Ковтуненко Александра </p>
-								<span>Руководитель отдела дизайна</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_8.jpg" alt="Иванов">
-								<p>Пьянов Юрий</p>
-								<span>Руководитель отдела производства</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_4.jpg" alt="Иванов">
-								<p>Енина Лидия</p>
-								<span>Менеджер по работе с VIP клиентами</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_3.jpg" alt="Иванов">
-								<p>Бойко Евгений</p>
-								<span>Менеджер по продажам</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_5.jpg" alt="Иванов">
-								<p>Шахновская Елизавета</p>
-								<span>Дизайнер</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_6.jpg" alt="Иванов">
-								<p>Губанова Дарья</p>
-								<span>Дизайнер</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_7.jpg" alt="Иванов">
-								<p>Майстренко Наталья</p>
-								<span>специалист по документообороту</span>
-							</div>
-						</div>
-					</div>
 					<div class="order">
 						<h2 class="order_h2">Если у вас остались ещё вопросы</h2>
 						<p class="order_p">Звоните нам или пишите, ответим на все интересующие Вас вопросы</p>
@@ -214,7 +168,7 @@
 			</div><!-- .wrapper -->
 			<footer class="footer flex">
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45095.37063217501!2d41.9245459437137!3d45.05616544901016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f9076a931d1f2f%3A0x8cc5e2e36c1e5060!2zTlJHINGA0LXQutC70LDQvNC90L4g0L_RgNC-0LjQt9Cy0L7QtNGB0YLQstC10L3QvdCw0Y8g0LPRgNGD0L_Qv9Cw!5e0!3m2!1sru!2sru!4v1586290729640!5m2!1sru!2sru" class="map" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-				<iframe src="https://www.youtube.com/embed/8tNNzi6mk5I" class="map" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<iframe src="https://www.youtube.com/embed/aOQfgJ-jnMM" class="map" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</footer><!-- .footer -->
 		</div>
 	</div>

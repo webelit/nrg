@@ -57,10 +57,13 @@
 						<p>Несветовые вывески устанавливают в помещении и на улице. Изделия просты<br>в обслуживании и подходят для фирм, работающих в дневное время. Доступны по<br>цене и долговечны</p>
 						<div class="button">
 							<a href="#ex1" rel="modal:open" class="btn effect01">
-								<span>ВЫЗВАТЬ ЗАМЕРЩИКА БЕСППЛАТНО</span>
+								<span>Рассчитать стоимость</span>
 							</a>
 						</div>
 					</div>
+					<video loop muted autoplay poster="images/head_1.jpg" class="fullscreen-bg__video">
+						<source src="images/video.mp4" type="video/mp4">
+					</video>
 				</header><!-- .header-->
 
 				<main class="content">
@@ -73,16 +76,16 @@
 					<div class="cont">
 						<div class="flex">
 							<div class="vidi_catalog_3">
-								<img src="images/nesvet_1.jpg" alt="Вывески из ПВХ">
+								<img src="images/nesvet_1.png" alt="Баннер на каркасе">
+								<h3 class="vidi_catalog_h3">Баннер на каркасе</h3>
+							</div>
+							<div class="vidi_catalog_3">
+								<img src="images/nesvet_2.png" alt="Вывески из ПВХ">
 								<h3 class="vidi_catalog_h3">Вывески из ПВХ</h3>
 							</div>
 							<div class="vidi_catalog_3">
-								<img src="images/nesvet_2.jpg" alt="Композитные короба">
-								<h3 class="vidi_catalog_h3">Композитные короба</h3>
-							</div>
-							<div class="vidi_catalog_3">
-								<img src="images/nesvet_3.jpg" alt="Баннерные вывески на металлическом каркасе">
-								<h3 class="vidi_catalog_h3">Баннерные вывески на металлическом каркасе</h3>
+								<img src="images/nesvet_3.png" alt="Композитный короб с апликацей">
+								<h3 class="vidi_catalog_h3">Композитный короб с апликацей</h3>
 							</div>
 							<p>Такой формат хорошо работает в светлое время суток и пользуется популярностью у компаний, не нуждающихся в притоке посетителей в вечернее или ночное время. Это также оптимальное решение для развивающегося бизнеса, когда денег на масштабное продвижение еще недостаточно. Впоследствии реклама может быть дополнена внешней подсветкой светодиодным прожектором. Интерьерные изделия данного типа широко применяют в коридорах и холлах в качестве указателей, используют при оформлении витрин.</p>
 							<p>Интересный вариант – несветовые объемные буквы, которые востребованы и внутри помещения, и в уличной рекламе. Производители предлагают плоские или объемные буквы из непрозрачного пластика, вариации из оргстекла.</p>
@@ -110,51 +113,6 @@
 								</div>
 							</div>
 						</div>
-					<div class="cont">
-						<h2 class="h2">Наша команда</h2>
-						<div class="comanders flex center slider">
-							<div class="comander">
-								<img src="images/comander_2.jpg" alt="Иванов">
-								<p>Коростелев Андрей</p>
-								<span>Руководитель отдела продаж</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_1.jpg" alt="Иванов">
-								<p>Ковтуненко Александра </p>
-								<span>Руководитель отдела дизайна</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_8.jpg" alt="Иванов">
-								<p>Пьянов Юрий</p>
-								<span>Руководитель отдела производства</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_4.jpg" alt="Иванов">
-								<p>Енина Лидия</p>
-								<span>Менеджер по работе с VIP клиентами</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_3.jpg" alt="Иванов">
-								<p>Бойко Евгений</p>
-								<span>Менеджер по продажам</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_5.jpg" alt="Иванов">
-								<p>Шахновская Елизавета</p>
-								<span>Дизайнер</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_6.jpg" alt="Иванов">
-								<p>Губанова Дарья</p>
-								<span>Дизайнер</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_7.jpg" alt="Иванов">
-								<p>Майстренко Наталья</p>
-								<span>специалист по документообороту</span>
-							</div>
-						</div>
-					</div>
 					<div class="order">
 						<h2 class="order_h2">Если у вас остались ещё вопросы</h2>
 						<p class="order_p">Звоните нам или пишите, ответим на все интересующие Вас вопросы</p>
@@ -180,7 +138,7 @@
 			</div><!-- .wrapper -->
 			<footer class="footer flex">
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45095.37063217501!2d41.9245459437137!3d45.05616544901016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f9076a931d1f2f%3A0x8cc5e2e36c1e5060!2zTlJHINGA0LXQutC70LDQvNC90L4g0L_RgNC-0LjQt9Cy0L7QtNGB0YLQstC10L3QvdCw0Y8g0LPRgNGD0L_Qv9Cw!5e0!3m2!1sru!2sru!4v1586290729640!5m2!1sru!2sru" class="map" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-				<iframe src="https://www.youtube.com/embed/8tNNzi6mk5I" class="map" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<iframe src="https://www.youtube.com/embed/aOQfgJ-jnMM" class="map" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</footer><!-- .footer -->
 		</div>
 	</div>

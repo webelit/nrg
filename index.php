@@ -59,7 +59,7 @@
 						<p>Объёмные буквы и вывески</p>
 						<div class="button">
 							<a  href="#ex1" rel="modal:open" class="btn effect01">
-								<span>Вызвать замерщика за наш счет</span>
+								<span>Рассчитать стоимость</span>
 							</a>
 						</div>
 					</div>
@@ -71,7 +71,7 @@
 				<main class="content">
 					<div class="cont">
 						<h2 class="h2">Наши услуги по наружной рекламе</h2>
-						<div class="flex">
+						<div class="comanders flex center slider">
 							<div class="prod">
 								<img src="images/prod_1.jpg" alt="ОБЪЕМНЫЕ БУКВЫ И ВЫВЕСКИ" class="header_img">
 								<div class="prod_cont">
@@ -104,51 +104,42 @@
 									<a href="" class="prod_a">Подробнее</a>
 								</div>
 							</div>
+							<div class="prod">
+								<img src="images/prod_4.jpg" alt="ОБЪЕМНЫЕ БУКВЫ И ВЫВЕСКИ" class="header_img">
+								<div class="prod_cont">
+									<h3 class="h3">РЕКЛАМНЫЕ КОНСТРУКЦИИ</h3>
+									<p>Бывают разные, но задача одна - привлекать.</p>
+									<a href="" class="prod_a">Подробнее</a>
+								</div>
+							</div>
+							<div class="prod">
+								<img src="images/prod_4.jpg" alt="ОБЪЕМНЫЕ БУКВЫ И ВЫВЕСКИ" class="header_img">
+								<div class="prod_cont">
+									<h3 class="h3">РЕКЛАМНЫЕ КОНСТРУКЦИИ</h3>
+									<p>Бывают разные, но задача одна - привлекать.</p>
+									<a href="" class="prod_a">Подробнее</a>
+								</div>
+							</div>
 						</div>
 					</div>
 					<div class="cont">
 						<h2 class="h2">Наши работы</h2>
 						<div class="lazy slider slider-top" data-sizes="50vw">
-							<div class="flex">
-								<div class="work_left">
-									<div class="work_left_1">
-										<p>Магазин<br>товаров для животных<br><span>«Ле Муррр»</span></p>
-									</div>
-									<div class="work_left_2 flex">
-										<div class="work_left_2_1">
-											<p>ДО ВЫВЕСКИ<span>50-60</span>клиентов</p>
-											<img src="images/do.svg" alt="">
-										</div>
-										<div class="work_left_2_2">
-											<p>С ВЫВЕСКОЙ<span>100-120</span>клиентов</p>
-											<img src="images/posle.svg" alt="">
-										</div>
-									</div>
-								</div>
-								<div class="work_right">
-									<img src="images/slide.jpg" alt="">
-								</div>
-							</div>
-							<div class="flex">
-								<div class="work_left">
-									<div class="work_left_1">
-										<p>Магазин<br>товаров для животных<br><span>«Ле Муррр»</span></p>
-									</div>
-									<div class="work_left_2 flex">
-										<div class="work_left_2_1">
-											<p>ДО ВЫВЕСКИ<span>50-60</span>клиентов</p>
-											<img src="images/do.svg" alt="">
-										</div>
-										<div class="work_left_2_2">
-											<p>С ВЫВЕСКОЙ<span>100-120</span>клиентов</p>
-											<img src="images/posle.svg" alt="">
-										</div>
-									</div>
-								</div>
-								<div class="work_right">
-									<img src="images/slide.jpg" alt="">
-								</div>
-							</div>
+							<img src="images/01.jpg" alt="">
+							<img src="images/02.jpg" alt="">
+							<img src="images/03.jpg" alt="">
+							<img src="images/04.jpg" alt="">
+							<img src="images/05.jpg" alt="">
+							<img src="images/06.jpg" alt="">
+							<img src="images/07.jpg" alt="">
+							<img src="images/08.jpg" alt="">
+							<img src="images/09.jpg" alt="">
+							<img src="images/10.jpeg" alt="">
+							<img src="images/11.jpg" alt="">
+							<img src="images/12.jpg" alt="">
+							<img src="images/13.jpg" alt="">
+							<img src="images/14.jpg" alt="">
+							<img src="images/15.jpg" alt="">
 						</div>
 
 					</div>

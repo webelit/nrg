@@ -57,10 +57,13 @@
 						<p>Интерьерная или широкоформатная печать используется для нанесения<br>изображений на указатели внутри помещений, картины, фотообои, уличные<br>баннеры, рекламные щиты</p>
 						<div class="button">
 							<a href="#ex1" rel="modal:open" class="btn effect01">
-								<span>ВЫЗВАТЬ ЗАМЕРЩИКА БЕСППЛАТНО</span>
+								<span>Рассчитать стоимость</span>
 							</a>
 						</div>
 					</div>
+					<video loop muted autoplay poster="images/head_1.jpg" class="fullscreen-bg__video">
+						<source src="images/video.mp4" type="video/mp4">
+					</video>
 				</header><!-- .header-->
 
 				<main class="content">
@@ -75,61 +78,16 @@
 						<div class="flex">
 							<div class="vidi_catalog">
 								<img src="images/print_1.jpg" alt="Уличные инсталляции">
-								<p>Интерьерная печать</p>
+								<h3 class="vidi_catalog_h3">Интерьерная печать</h3>
 								<p>Полиграфия для рекламы внутри помещений требует более четкого изображения с точной передачей мелких элементов и оттенков. Поэтому разрешение принтера для интерьерной печати должно быть не менее 1440 точек на дюйм. Применяются разные виды красок – для наружных работ берут стойкие сольвентные чернила, которые имеют неприятный запах, а для интерьерной полиграфии используют щадящие краски, абсолютно безопасные для здоровья.</p>
 							</div>
 							<div class="vidi_catalog">
-								<img src="images/print_4.jpg" alt="Дизайнерские шедевры">
-								<p>Широкоформатная печать</p>
+								<img src="images/print_2.jpg" alt="Дизайнерские шедевры">
+								<h3 class="vidi_catalog_h3">Широкоформатная печать</h3>
 								<p>Широкоформатная печать имеет крупные габариты или размещается на открытом пространстве, поэтому продукция должна быть достаточно прочной. Основные материалы которые используются для широкоформатной печати: баннерная ткан ь различной прочности, самоклеющаяся пленка или баннерная сетка.</p>
 							</div>
 							<p class="rek">Оборудование и тип печати нужно подбирать в зависимости от предназначения рекламного продукта, его габаритов и качества будущего изображения. Мы используем инновационную аппаратуру, позволяющую создавать и крупноформатные табло, и небольшие картины.</p>
 							<p class="rek">Принтер HP Latex 360 (1440 dpi) - новое поколение печатающих устройств. Экологичное и энергосберегающее оборудование наносит четкое изображение на большинство популярных рекламных носителей. Готовые изделия подходят для уличного и интерьерного использования. Яркие кадры устойчивы к случайному механическому воздействию, осадкам и ультрафиолету.</p>
-						</div>
-					</div>
-					<div class="cont">
-						<h2 class="h2">Наша команда</h2>
-						<div class="comanders flex center slider">
-							<div class="comander">
-								<img src="images/comander_2.jpg" alt="Иванов">
-								<p>Коростелев Андрей</p>
-								<span>Руководитель отдела продаж</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_1.jpg" alt="Иванов">
-								<p>Ковтуненко Александра </p>
-								<span>Руководитель отдела дизайна</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_8.jpg" alt="Иванов">
-								<p>Пьянов Юрий</p>
-								<span>Руководитель отдела производства</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_4.jpg" alt="Иванов">
-								<p>Енина Лидия</p>
-								<span>Менеджер по работе с VIP клиентами</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_3.jpg" alt="Иванов">
-								<p>Бойко Евгений</p>
-								<span>Менеджер по продажам</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_5.jpg" alt="Иванов">
-								<p>Шахновская Елизавета</p>
-								<span>Дизайнер</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_6.jpg" alt="Иванов">
-								<p>Губанова Дарья</p>
-								<span>Дизайнер</span>
-							</div>
-							<div class="comander">
-								<img src="images/comander_7.jpg" alt="Иванов">
-								<p>Майстренко Наталья</p>
-								<span>специалист по документообороту</span>
-							</div>
 						</div>
 					</div>
 					<div class="order">
@@ -157,7 +115,7 @@
 			</div><!-- .wrapper -->
 			<footer class="footer flex">
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45095.37063217501!2d41.9245459437137!3d45.05616544901016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f9076a931d1f2f%3A0x8cc5e2e36c1e5060!2zTlJHINGA0LXQutC70LDQvNC90L4g0L_RgNC-0LjQt9Cy0L7QtNGB0YLQstC10L3QvdCw0Y8g0LPRgNGD0L_Qv9Cw!5e0!3m2!1sru!2sru!4v1586290729640!5m2!1sru!2sru" class="map" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-				<iframe src="https://www.youtube.com/embed/8tNNzi6mk5I" class="map" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<iframe src="https://www.youtube.com/embed/aOQfgJ-jnMM" class="map" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</footer><!-- .footer -->
 		</div>
 	</div>
