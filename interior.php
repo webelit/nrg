@@ -53,7 +53,7 @@
 				<header class="header">
 					<img src="images/head_4.jpg" alt="" class="header_img">
 					<div class="header_cont">
-						<h1 class="h1">Рекламные конструкции<br>для бизнеса</h1>
+						<h1 class="h1">Не стандартные<br>рекламные конструкции</h1>
 						<p>Рекламные конструкции и интерьерные решения привлекают клиентов.<br>Производители предлагают разные типы рекламы: эффектные наружные варианты и<br>версии для помещений</p>
 						<div class="button">
 							<a href="#ex1" rel="modal:open" class="btn effect01">
