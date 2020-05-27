@@ -288,7 +288,7 @@ body::-webkit-scrollbar {
 	background: rgba(32, 43, 62, 0.8);
 }
 .header_img{
-	width: 100%;
+	width: 90%;
     height: 100%;
     object-fit: cover;
     position: absolute;
@@ -311,6 +311,14 @@ body::-webkit-scrollbar {
 }
 .h3{
 	font-family: "GothamPro-Medium";
+	text-transform: uppercase;
+	min-height: 50rem;
+}
+.mf_jpg{
+	width: 400rem;
+}
+.mf_p{
+	width: 1080rem;
 }
 .header_a{
 	font-family: "GothamPro-Medium";
@@ -421,6 +429,7 @@ body::-webkit-scrollbar {
 	padding: 400rem 0 0;
 	margin-bottom: -280rem;
 	color: #fff;
+	background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 1%,rgba(0,0,0,1) 100%);
 	transition: all 0.2s ease-in;
 }
 .prod_cont:hover{

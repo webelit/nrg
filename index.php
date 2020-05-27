@@ -96,50 +96,44 @@
 						<h2 class="h2">Наши услуги по наружной рекламе</h2>
 						<div class="comanders flex center slider">
 							<div class="prod">
-								<img src="images/prod_1.jpg" alt="ОБЪЕМНЫЕ БУКВЫ И ВЫВЕСКИ" class="header_img">
+								<img src="images/prod_1.jpg" alt="Арт объекты" class="header_img">
 								<div class="prod_cont">
-									<h3 class="h3">ОБЪЕМНЫЕ БУКВЫ И ВЫВЕСКИ</h3>
-									<p>Успех начинается с буквы.</p>
+									<h3 class="h3">Арт объекты</h3>
 									<a href="" class="prod_a">Подробнее</a>
 								</div>
 							</div>
 							<div class="prod">
-								<img src="images/prod_2.jpg" alt="ОБЪЕМНЫЕ БУКВЫ И ВЫВЕСКИ" class="header_img">
+								<img src="images/prod_2.jpg" alt="Медиа экраны" class="header_img">
 								<div class="prod_cont">
-									<h3 class="h3">СВЕТОВЫЕ КОРОБА</h3>
-									<p>Станьте заметнее. Гораздо заметнее.</p>
+									<h3 class="h3">Медиа экраны</h3>
 									<a href="" class="prod_a">Подробнее</a>
 								</div>
 							</div>
 							<div class="prod">
-								<img src="images/prod_3.jpg" alt="ОБЪЕМНЫЕ БУКВЫ И ВЫВЕСКИ" class="header_img">
+								<img src="images/prod_3.jpg" alt="Не световые вывески" class="header_img">
 								<div class="prod_cont">
-									<h3 class="h3">БАННЕРЫ</h3>
-									<p>Которые, вызывают желание купить.</p>
+									<h3 class="h3">Не световые вывески</h3>
 									<a href="" class="prod_a">Подробнее</a>
 								</div>
 							</div>
 							<div class="prod">
-								<img src="images/prod_4.jpg" alt="ОБЪЕМНЫЕ БУКВЫ И ВЫВЕСКИ" class="header_img">
+								<img src="images/prod_4.jpg" alt="Не стандартные рекламные конструкции" class="header_img">
 								<div class="prod_cont">
-									<h3 class="h3">РЕКЛАМНЫЕ КОНСТРУКЦИИ</h3>
-									<p>Бывают разные, но задача одна - привлекать.</p>
+									<h3 class="h3">Не стандартные рекламные конструкции</h3>
 									<a href="" class="prod_a">Подробнее</a>
 								</div>
 							</div>
 							<div class="prod">
-								<img src="images/prod_4.jpg" alt="ОБЪЕМНЫЕ БУКВЫ И ВЫВЕСКИ" class="header_img">
+								<img src="images/prod_5.jpg" alt="Объемные буквы" class="header_img">
 								<div class="prod_cont">
-									<h3 class="h3">РЕКЛАМНЫЕ КОНСТРУКЦИИ</h3>
-									<p>Бывают разные, но задача одна - привлекать.</p>
+									<h3 class="h3">Объемные буквы</h3>
 									<a href="" class="prod_a">Подробнее</a>
 								</div>
 							</div>
 							<div class="prod">
-								<img src="images/prod_4.jpg" alt="ОБЪЕМНЫЕ БУКВЫ И ВЫВЕСКИ" class="header_img">
+								<img src="images/prod_6.jpg" alt="Световые короба" class="header_img">
 								<div class="prod_cont">
-									<h3 class="h3">РЕКЛАМНЫЕ КОНСТРУКЦИИ</h3>
-									<p>Бывают разные, но задача одна - привлекать.</p>
+									<h3 class="h3">Световые короба</h3>
 									<a href="" class="prod_a">Подробнее</a>
 								</div>
 							</div>
@@ -211,7 +205,7 @@
 			</div><!-- .wrapper -->
 			<footer class="footer flex">
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45095.37063217501!2d41.9245459437137!3d45.05616544901016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f9076a931d1f2f%3A0x8cc5e2e36c1e5060!2zTlJHINGA0LXQutC70LDQvNC90L4g0L_RgNC-0LjQt9Cy0L7QtNGB0YLQstC10L3QvdCw0Y8g0LPRgNGD0L_Qv9Cw!5e0!3m2!1sru!2sru!4v1586290729640!5m2!1sru!2sru" class="map" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-				<iframe src="https://www.youtube.com/embed/8tNNzi6mk5I" class="map" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/aOQfgJ-jnMM" class="map" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</footer><!-- .footer -->
 		</div>
 	</div>
